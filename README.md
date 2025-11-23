@@ -1,3 +1,5 @@
 # React + Vite
 
 This is a react + vite + talwind project to understand the flow of react.
+
+It is a background color changer project.
